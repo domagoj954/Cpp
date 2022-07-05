@@ -1,0 +1,12 @@
+# ninja log v5
+0	474	6444395221564991	CMakeFiles/untitled3.dir/main.cpp.obj	4193b5e10caf3316
+10	478	6444395221614859	CMakeFiles/untitled3.dir/Outpost.cpp.obj	19c059127e94b26
+5	480	6444395221614859	CMakeFiles/untitled3.dir/Villager.cpp.obj	9e1c8eb1bb7e7884
+8	520	6444395222083589	CMakeFiles/untitled3.dir/TownCenter.cpp.obj	d57514953192797
+520	1048	6444395225188991	untitled3.exe	f9e6b82b10aa53e9
+0	9	0	clean	9992afb1f91dc381
+7	656	6444395256948752	CMakeFiles/untitled3.dir/Outpost.cpp.obj	19c059127e94b26
+5	671	6444395257287852	CMakeFiles/untitled3.dir/Villager.cpp.obj	9e1c8eb1bb7e7884
+1	672	6444395256908863	CMakeFiles/untitled3.dir/main.cpp.obj	4193b5e10caf3316
+9	785	6444395258544489	CMakeFiles/untitled3.dir/TownCenter.cpp.obj	d57514953192797
+786	984	6444395260190089	untitled3.exe	f9e6b82b10aa53e9

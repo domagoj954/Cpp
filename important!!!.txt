@@ -1,0 +1,8 @@
+staro - ne pokrece cpp i hpp "cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+  
+
+
+
+novo - //pokrece sve "cpp": "cd $dir && g++ -o $fileNameWithoutExt *.cpp && $dir$fileNameWithoutExt",
+
+https://github.com/formulahendry/vscode-code-runner/issues/376
